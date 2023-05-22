@@ -5,7 +5,7 @@
   <artifactId>calculator</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>Calculator Program By Sainath  Apr-2023 Program </name>
+  name>Calculator Program By Sainath  Apr-2023 Program </name>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
